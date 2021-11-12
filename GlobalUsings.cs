@@ -1,0 +1,7 @@
+﻿global using ff = CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileFunctions;
+global using CommonBasicLibraries.BasicDataSettingsAndProcesses;
+global using CommonBasicLibraries.CollectionClasses;
+global using CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.HtmlParserClasses;
+global using fg = NugetHelpersLibrary.Watchers.FirstStatusGlobalClass;
+global using cg = NugetHelpersLibrary.Watchers.CompiledGlobalClass;
+global using CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.BasicExtensions;
